@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXHeN4iKIBaptobAZi0THFRnouOqNXb9mg9Ut0FX0n2RLRW+xcm9nY+bfcvqCXkq3JScoif25LiIoSyatitRjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junxian428\\source\\repos\\TodoApp\\TodoApp\\TodoApp.iOS\\TodoApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junxian428\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\junxian428\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\junxian428\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\junxian428\\.nuget\\packages\\xamarin.forms.inputkit\\4.0.0\\xamarin.forms.inputkit.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
